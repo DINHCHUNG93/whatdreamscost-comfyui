@@ -1,3 +1,38 @@
+
+
+
+Trình Chỉnh Sửa Video AI Mã Nguồn Mở Toàn Diện Cho ComfyUI
+
+Nếu bạn đang tạo video AI bằng LTX Video trong ComfyUI, việc quản lý prompt, keyframe, audio và nhiều cảnh quay thường rất phức tạp. LTX Director ra đời để giải quyết vấn đề đó bằng cách biến ComfyUI thành một studio dựng phim AI thực thụ.
+
+Điểm nổi bật của LTX Director:
+• Timeline editor trực quan ngay trong ComfyUI, không cần chuyển qua phần mềm dựng phim khác.
+• Hỗ trợ Text-to-Video, Image-to-Video, First Frame, Last Frame và Middle Frame để kiểm soát nội dung chính xác hơn.
+• Prompt Relay cho phép thay đổi prompt theo từng đoạn video, tạo câu chuyện dài mạch lạc.
+• Import và chỉnh sửa video trực tiếp: cắt, ghép, mở rộng video bằng AI.
+• Audio Inpainting giúp kết hợp âm thanh AI và âm thanh nhập vào một cách liền mạch.
+• Retake Mode (Beta) cho phép tạo lại riêng một đoạn video mà không cần render toàn bộ.
+• Hỗ trợ IC-LoRA giúp duy trì nhân vật và phong cách xuyên suốt nhiều cảnh.
+• Lưu và tải lại toàn bộ timeline dưới dạng JSON để tiếp tục chỉnh sửa bất kỳ lúc nào.
+
+Các công cụ đi kèm:
+
+• Multi Image Loader để quản lý và sắp xếp nhiều hình ảnh.
+• Speech Length Calculator giúp tính thời lượng video từ lời thoại.
+• Load Video UI và Load Audio UI với preview trực tiếp, kéo thả và cắt ghép nhanh.
+
+Công nghệ sử dụng:
+• ComfyUI Custom Nodes
+• LTX Video 2.3
+• IC-LoRA
+• Prompt Relay
+• Timeline-based AI Video Workflow
+
+LTX Director đang được cộng đồng ComfyUI đánh giá là một trong những công cụ mạnh nhất để tạo video AI dài, duy trì nhân vật ổn định và xây dựng các dự án phim AI ngay trên máy cá nhân.
+
+
+
+
 # Overview
 
 This will be a collection of free resources for ComfyUI.
